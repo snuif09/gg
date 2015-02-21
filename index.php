@@ -77,17 +77,11 @@
                 
                 <div class="col-lg-12 text-center">
                     <h2>About us</h2>
-<<<<<<< HEAD:index.html
+
                     <p class="lead">/GG/, Games General, is a community that started out by playing videogames together. Over the past few years
 /GG/ has grown into a community that brings the game to real life too. /GG/ organises events, LAN-parties and
 hosts servers for games played by our community. We are playing: Videogames, Boardgames and Airsoft.</p><p><br />
-=======
-                    <p class="lead">/GG/, Games General, is a community that started out by playing Videogames together. Over the past few years /GG/ has grown into a community that brings the game to real life, too. /GG/ organises events, LAN-parties and hosts servers for games played by our community. We are playing: Videogames, Boardgames and Airsoft.</p>
 
->>>>>>> de32493705f86ca07af8e724d0085eb55ef8feea:index.php
-
-
-                    <p>
                         <br />See you in-game, cowboy.</p>
                 </div>
             </div>
@@ -120,12 +114,11 @@ hosts servers for games played by our community. We are playing: Videogames, Boa
                         <li>
                             <a href="https://www.facebook.com/groups/157082407815559/"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
                         </li>
-<<<<<<< HEAD:index.html
+
                         <li>
                             <a href="http://steamcommunity.com/groups/gamesgeneral"><i class="fa fa-steam fa-fw fa-3x"></i></a>
                         </li>
-=======
->>>>>>> de32493705f86ca07af8e724d0085eb55ef8feea:index.php
+
                     </ul>
                     <hr class="small">
                     <p class="text-muted">Copyright &copy; Games General 2015</p>
